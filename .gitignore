@@ -23,6 +23,9 @@ local.properties
 # Local History for Visual Studio Code
 .history/
 
+.classpath
+.project
+
 # Package Files #
 *.jar
 *.war
